@@ -1,3 +1,6 @@
+*~
+*.swp
+
 .ssh/id_rsa
 .ssh/known_hosts
 Application Data/
@@ -13,3 +16,7 @@ UserData/
 Recent/
 PrivacIE/
 IET*/
+
+.viminfo
+_viminfo
+
