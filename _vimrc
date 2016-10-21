@@ -19,3 +19,5 @@ imap <c-t> <ESC>:tabf<space>
 nmap <c-w> ZZ
 imap <c-w> <ESC>ZZ
 
+au BufNewFile,BufRead *.log set autoread
+
