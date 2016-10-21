@@ -1,0 +1,15 @@
+.ssh/id_rsa
+.ssh/known_hosts
+Application Data/
+Cookies/*
+Favorites/
+Local Settings/
+My Documents/
+NTUSER*
+SendTo/
+Start Menu/
+Templates/
+UserData/
+Recent/
+PrivacIE/
+IET*/
